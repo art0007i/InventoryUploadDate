@@ -4,7 +4,7 @@ A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https
 
 - ⚠ Incompatible with [BetterInventoryBrowser](https://github.com/hantabaru1014/BetterInventoryBrowser)! (I haven't tested it, but pretty sure some ui would overlap)
 
-[!image of mod](/assets/img1.png)
+![image of mod](/assets/img1.png)
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
